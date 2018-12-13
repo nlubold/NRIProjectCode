@@ -7,8 +7,11 @@ Setting up the Nao robot and chatbot APIs.
 (Assumption that this is being run on a Windows machine)
 
 Step 1. Download Python 2.7; keep the default installation so that it is installed to the top level of the C directory (i.e. C:\Python27)
+
 Step 2. If using the robot version, install Nao robot Python SDK (http://doc.aldebaran.com/1-14/dev/python/index.html)
+
 Step 3. Install the Pandora bot API (https://github.com/pandorabots/pb-python)
+
 Step 4. Download the folder labeled NaoNRIPrograms and put this in C:\Python27\
 
 -------------------------------------------------
