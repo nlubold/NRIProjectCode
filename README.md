@@ -1,4 +1,4 @@
-This code contains the architecture for the NRI project to run automatically with a NAO robot. To run this code, several steps need to be taken first in addition to installing Visual Studio Express. 
+This code contains the architecture for the NRI project to run automatically with a NAO robot or with a virtual agent. To run this code, several steps need to be taken first in addition to installing Visual Studio Express. 
 
 -------------------------------------------------
 
